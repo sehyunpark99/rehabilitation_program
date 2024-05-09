@@ -57,7 +57,9 @@ We switched to a web-based system and successfully created a rehabilitation exer
 
 ## Citation
 [1] “Musculoskeletal health,” World Health Organization. [Online]. Available: https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions. [Accessed: 17-Dec-2022]. 
+
 [2] Lee, M.H., Siewiorek, D.P., Smailagic, A. et al. Enabling AI and Robotic Coaches for Physical Rehabilitation Therapy: Iterative Design and Evaluation with Therapists and Post-stroke Survivors. Int J of Soc Robotics (2022). https://doi.org/10.1007/s12369-022-00883-0
+
 [3] Kaelin VC, Valizadeh M, Salgado Z, Parde N, Khetani MA. Artificial Intelligence in Rehabilitation Targeting the Participation of Children and Youth With Disabilities: Scoping Review. J Med Internet Res. 2021 Nov 4;23(11):e25745. doi: 10.2196/25745. PMID: 34734833; PMCID: PMC8603165.
 
 Video Data Source: https://youtube.com/shorts/56mPGbYTz94
